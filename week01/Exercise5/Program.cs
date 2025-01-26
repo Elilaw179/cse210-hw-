@@ -26,7 +26,6 @@ class Program
 
         return name;
     }
-
     static int PromptUserNumber()
     {
         Console.Write("Please enter your favorite number: ");

@@ -4,9 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        //First and second stage
-       
-        
         // Stage 3---- random number
         Random randomNum = new Random();
         int magicNum = randomNum.Next(1, 101);
