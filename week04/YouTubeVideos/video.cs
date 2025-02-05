@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 class Video
-{
+{ 
     public string Title { get; set; }
     public string Author { get; set; }
     public int Length { get; set; }  // Length in seconds
